@@ -5,3 +5,4 @@ By removing the comments the data will appear.
 
 MySQL ddl, in the application properties, is currently set to update but by changing to create the Employee table will create. 
 
+I used https://spring.io/guides/tutorials/react-and-spring-data-rest/ as a guide. 
